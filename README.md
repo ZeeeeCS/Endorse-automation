@@ -1,8 +1,8 @@
 # Endorse-automation (LinkedIn Skill Endorsement) ? Selenium
 
-Automates visiting LinkedIn **Skills** pages and clicking an **Endorse** button when it?s available.
+Automates visiting LinkedIn **Skills** pages and clicking an **Endorse** button when its available.
 
-> **Important**: Automating actions on LinkedIn may violate LinkedIn?s Terms of Service and can lead to account restrictions. Use responsibly and at your own risk.
+> **Important**: Automating actions on LinkedIn may violate LinkedIn Terms of Service and can lead to account restrictions. Use responsibly and at your own risk.
 
 ## What this does
 
